@@ -1,0 +1,30 @@
+body{
+    font-family: verdana;
+    text-align: center;
+    align-items: center;
+    
+    
+    background-color: black;
+}
+
+h1{
+    color: white;
+    font-size: 4em;
+}
+h2{
+    color: white;
+    font-size: 3em;
+}
+button{
+    background-color: orange;
+    color: black;
+    font-size: 3em;
+    font-weight: 3em;
+    border-radius: 15px;
+    outline-color: orange;
+}
+
+h2, button{
+    justify-content: center;
+    text-align: center;
+}
